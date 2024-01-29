@@ -8,8 +8,10 @@ namespace RPGMap
 {
     internal class Program
     {
+        public Map Map;
         static void Main(string[] args)
         {
+            
         }
     }
 }
