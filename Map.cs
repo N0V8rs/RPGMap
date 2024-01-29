@@ -20,7 +20,7 @@ namespace RPGMap
 
         public void CreateMap()
         {
-            for (int i = 0; i < MapX.Length; i++)
+            for (int i = 0; i < MapY.Length; i++)
             {
                 for (int j = 0; j < MapX[i].Length; j++)
                 {

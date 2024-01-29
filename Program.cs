@@ -10,11 +10,12 @@ namespace RPGMap
     {
         static void Main(string[] args)
         {
+            Enitity enitity = new Enitity();
             Map map = new Map();
             Player player = new Player();
 
-            //map.MapConsole();
-            player.Health = 10;
+            map.MapConsole();
+            
             Console.WriteLine(player.Health);
             Console.ReadKey(true);
         }

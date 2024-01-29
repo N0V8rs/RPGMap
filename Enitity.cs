@@ -7,12 +7,11 @@ using System.Threading.Tasks;
 
 namespace RPGMap
 {
-    internal class Enitity
+    internal class Enitity 
     {
         public Enitity() 
         {
-            Console.WriteLine("Enitity Code");
-
+            Console.WriteLine("Enitity Code Loaded");
         }
 
         public int x;

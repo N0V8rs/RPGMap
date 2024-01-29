@@ -8,7 +8,7 @@ namespace RPGMap
 {
     internal class Player : Enitity
     {
-        public Enitity stats;
-
+        
+        
     }
 }
